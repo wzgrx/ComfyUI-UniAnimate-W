@@ -3,11 +3,11 @@ opencv-python
 pytorch_lightning
 lightning_utilities
 lightning_fabric
-torchmetrics=
+torchmetrics
 xformers
-einops=
+einops
 onnxruntime
-open-clip-torch=
+open-clip-torch
 fairscale
 easydict
 imageio
